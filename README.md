@@ -42,5 +42,3 @@ Make sure to backup the game's executable before patching !
 * Due to limitations this mod will only be compatible with Timespinner executables that are identical to the one used on Steam on Windows 10
 * This mod does not change a single base enemy stat, they will all have the exact same health and attack power as in vanilla
 * This mod has been fully playtested to ensure that every enemy attack can be properly dealt with using the abilities you would have at that point in the game
-* While intially designed for the vanilla game this mod currently is and should always be compatible with Timespinner Randomizer
-* The few balance changes to weapons and spells will not conflict with the randomizer's damage rando and will scale accordingly
