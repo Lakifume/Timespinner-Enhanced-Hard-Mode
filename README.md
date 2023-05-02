@@ -5,7 +5,7 @@ A modification of the metroidvania Timespinner that aims to bring interesting ch
 ## Changelog
 
 ### Game global differences:
-* Reworked player defense by making the applied reduction a percentage of the damage dealt rather than a straight subtraction. With this setup 4 defense points will equate to 5% reduction and 50 defense will equate to 40% reduction
+* Reworked player defense by making the applied reduction a percentage of the damage dealt rather than a straight subtraction. With this setup 4 defense points will equate to 5% reduction and 50 defense points will equate to 40% reduction
 * Changed poison damage rate to scale with difficulty, normal mode having half the poison rate as vanilla and hard mode having the same rate
 * Changed burn damage weakness multiplier to 1.5x instead of the original 2x
 * Made it so that weak enemies that spawn in the Gyre receive an increase in damage to bring it closer to their endgame counterparts'
