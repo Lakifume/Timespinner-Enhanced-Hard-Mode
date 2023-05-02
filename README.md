@@ -1,4 +1,4 @@
-# Timespinner-Enhanced-Hard-Mode
+# Timespinner Enhanced Hard Mode
 
 A modification of the metroidvania Timespinner that aims to bring interesting challenge and enhanced difficulty to the game. The primary target has been to completely revamp how the game handles its difficulty changes on hard mode (also known as "Nightmare"). The most notable change is the revision of every single enemy in the game's hard mode to make them more challenging to fight. The nature of the edits can vary depending on the enemy/boss, this mod tries to get as creative as possible.
 
